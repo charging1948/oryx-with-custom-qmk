@@ -53,7 +53,11 @@
 
 
 
-
+#undef VENDOR_ID
+#undef PRODUCT_ID
+#undef DEVICE_VER
+#undef MANUFACTURER
+#undef PRODUCT
 
 #define VENDOR_ID       0x046A
 #define PRODUCT_ID      0x00A1
