@@ -62,5 +62,5 @@
 #define VENDOR_ID       0x046A
 #define PRODUCT_ID      0x00A1
 #define DEVICE_VER      0x0102
-#define MANUFACTURER    Cherry
-#define PRODUCT         KC 1000 SC
+#define MANUFACTURER    "Cherry"
+#define PRODUCT         "KC 1000 SC"
