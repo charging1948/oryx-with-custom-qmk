@@ -24,10 +24,10 @@ enum planck_layers {
 #define LOWER MO(_LOWER)
 #define RAISE MO(_RAISE)
 
-#define DUAL_FUNC_0 LT(11, KC_B)
-#define DUAL_FUNC_1 LT(12, KC_7)
-#define DUAL_FUNC_2 LT(11, KC_F14)
-#define DUAL_FUNC_3 LT(5, KC_J)
+#define DUAL_FUNC_0 LT(4, KC_G)
+#define DUAL_FUNC_1 LT(8, KC_8)
+#define DUAL_FUNC_2 LT(2, KC_B)
+#define DUAL_FUNC_3 LT(11, KC_I)
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [_BASE] = LAYOUT_planck_grid(
