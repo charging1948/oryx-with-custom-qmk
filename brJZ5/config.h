@@ -61,3 +61,21 @@
 #undef ENABLE_RGB_MATRIX_STARLIGHT_DUAL_HUE
 #undef ENABLE_RGB_MATRIX_STARLIGHT_DUAL_SAT
 #undef ENABLE_RGB_MATRIX_RIVERFLOW
+
+
+
+
+
+
+
+#undef VENDOR_ID
+#undef PRODUCT_ID
+#undef DEVICE_VER
+#undef MANUFACTURER
+#undef PRODUCT
+
+#define VENDOR_ID       0x046A
+#define PRODUCT_ID      0x00A1
+#define DEVICE_VER      0x0102
+#define MANUFACTURER    "Cherry"
+#define PRODUCT         "KC 1000 SC"
